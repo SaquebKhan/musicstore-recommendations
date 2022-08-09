@@ -1,0 +1,15 @@
+C:\Users\Saqueb\Desktop\musicstore-recommendations\app\src\main\java\com\company\musicstorerecommendations\model\LabelRecommendation.java
+C:\Users\Saqueb\Desktop\musicstore-recommendations\app\src\main\java\com\company\musicstorerecommendations\repository\TrackRecommendationRepository.java
+C:\Users\Saqueb\Desktop\musicstore-recommendations\app\src\main\java\com\company\musicstorerecommendations\repository\AlbumRecommendationRepository.java
+C:\Users\Saqueb\Desktop\musicstore-recommendations\app\src\main\java\com\company\musicstorerecommendations\repository\LabelRecommendationRepository.java
+C:\Users\Saqueb\Desktop\musicstore-recommendations\app\src\main\java\com\company\musicstorerecommendations\model\AlbumRecommendation.java
+C:\Users\Saqueb\Desktop\musicstore-recommendations\app\src\main\java\com\company\musicstorerecommendations\model\ErrorResponse.java
+C:\Users\Saqueb\Desktop\musicstore-recommendations\app\src\main\java\com\company\musicstorerecommendations\MusicstoreRecommendationsApplication.java
+C:\Users\Saqueb\Desktop\musicstore-recommendations\app\src\main\java\com\company\musicstorerecommendations\controller\LabelRecommendationController.java
+C:\Users\Saqueb\Desktop\musicstore-recommendations\app\src\main\java\com\company\musicstorerecommendations\model\TrackRecommendation.java
+C:\Users\Saqueb\Desktop\musicstore-recommendations\app\src\main\java\com\company\musicstorerecommendations\controller\TrackRecommendationController.java
+C:\Users\Saqueb\Desktop\musicstore-recommendations\app\src\main\java\com\company\musicstorerecommendations\model\ArtistRecommendation.java
+C:\Users\Saqueb\Desktop\musicstore-recommendations\app\src\main\java\com\company\musicstorerecommendations\controller\ArtistRecommendationController.java
+C:\Users\Saqueb\Desktop\musicstore-recommendations\app\src\main\java\com\company\musicstorerecommendations\repository\ArtistRecommendationRepository.java
+C:\Users\Saqueb\Desktop\musicstore-recommendations\app\src\main\java\com\company\musicstorerecommendations\controller\AlbumRecommendationController.java
+C:\Users\Saqueb\Desktop\musicstore-recommendations\app\src\main\java\com\company\musicstorerecommendations\controller\ExceptionHandlerController.java
